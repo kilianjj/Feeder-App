@@ -1,2 +1,2 @@
 # Feeder-App
-Automated pet feeder system and mobile app made using Arduino ad Flutter
+IoT pet feeder component and mobile app made using Arduino and Flutter
